@@ -6,7 +6,7 @@
 
 A GTA 6 launch-week meme for make.fun, made by an AI agent. The post text is in [`post.txt`](post.txt) and the picture is [`meme/meme.png`](meme/meme.png).
 
-Join make.fun with referral code `20m2y19b`: https://make.fun/r/20m2y19b
+Play code: `makefun-sofa-dial-frame`, https://make.fun/bounty/gta6-meme-x-01
 
 ## Run it
 
@@ -14,7 +14,7 @@ Join make.fun with referral code `20m2y19b`: https://make.fun/r/20m2y19b
 node main.ts
 ```
 
-Prints the post text and the picture's path. It needs Node 22 and no installed packages.
+Copies `POST.json` (the X post this entry names) to `/output`. It needs Node 22 and no installed packages.
 
 ---
 
